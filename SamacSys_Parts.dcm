@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP EFM8BB10F8I-A-QFN20
+D MCU,EFM8BB1,8051,25MHz,8KB Flash,QFN20 Silicon Labs EFM8BB10F8I-A-QFN20, 8bit Microcontroller, 25MHz, 8 kB Flash, 20-Pin QFN
+K
+F https://componentsearchengine.com/Datasheets/2/EFM8BB10F8I-A-QFN20.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,14 @@
+Reference,Value,Datasheet,Footprint,Qty,DNP
+C1,100n_25V,~,Capacitor_SMD:C_0201_0603Metric,1,
+"C2,C4",100p,~,Capacitor_SMD:C_0201_0603Metric,2,
+C3,10u_10V,~,Capacitor_SMD:C_0201_0603Metric,1,
+C5,4u7_16V,~,Capacitor_SMD:C_0201_0603Metric,1,
+J1,Conn_01x06,~,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,1,
+J2,Conn_01x02,~,Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical,1,DNP
+"R1,R3",3K3,~,Resistor_SMD:R_0603_1608Metric,2,
+"R2,R7",0R,~,Resistor_SMD:R_0603_1608Metric,2,
+R4,0R,~,Resistor_SMD:R_0603_1608Metric,1,DNP
+R5,4K7,~,Resistor_SMD:R_0603_1608Metric,1,DNP
+R6,4K7,~,Resistor_SMD:R_0603_1608Metric,1,
+TP1,VREG,~,TestPoint:TestPoint_Pad_D1.5mm,1,
+U1,IQS390,https://www.mouser.co.za/pdfDocs/Azoteq_01-10-2025_iqs390-datasheet_v10.pdf,Package_DFN_QFN:QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm_ThermalVias,1,
