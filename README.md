@@ -5,7 +5,7 @@ provided insight into symbol creation and the image converter Kicad feature, whi
 
 Software Tools used:
 - CAD Software: Kicad
-- VCS: Git and GitBash
+- VCS (Version Control System): Git and GitBash
 - Online Server: Github
 - Fabricator: JLCPCB
 
