@@ -3,6 +3,11 @@ This PCB design project was developed by following an interactive stream led by 
 It is not intended for financial gain,rather it serves as a learning opportunity aimed at improving my skills in PCB design. This experince proved to be valuable, as it
 provided insight into symbol creation and the image converter Kicad feature, while also requiring adjustments during the routing process.
 
+Software Tools used:
+CAD Software: Kicad
+VCS: Git and GitBash
+Online Server: Github
+
 ## PCB Layout (2-Layer Design)
 ![IQS390_pcb_routing](https://github.com/user-attachments/assets/01e879b6-1725-4dea-94d9-712a96913d75)
 
